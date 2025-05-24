@@ -16,7 +16,7 @@ class Solution(object):
                 return m
         return res
 s = Solution()
-x = 400
-y = s.mysqrt(x)
+yy = 400
+y = s.mysqrt(yy)
 print(y)
 
